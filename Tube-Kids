@@ -49,10 +49,12 @@
 <fanart>https://tinyurl.com/tsd9au7</fanart>
 </item>
 
+
  
 <item>
-<title>[COLOR red][B]●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●[/B][/COLOR]</title>
+<title>[COLOR darkred][B]●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●[/B][/COLOR]</title>
 </item>
+ 
  
  
  
@@ -86,35 +88,13 @@
 </item>
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 <item>
-<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Bob Zoom-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLfERVKDmUA50qOtjzTtXBXU0-pcY3E86F/?page=0</jsonrpc>
-<thumbnail>https://tinyurl.com/w5x6xzy</thumbnail>
-<fanart>https://tinyurl.com/w5x6xzy</fanart>
-<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
-[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
-[COLOR white]Bob Zoom é uma formiguinha azul divertida e charmosa, estrela de uma série de vídeos musicais, cantados em inglês, português e espanhol, que brinca e vive aventuras com sua turma.Todo o conceito foi concebido por profissionais experientes e qualificados em educação e musicalização infantil. Em seus vídeos, o personagem estimula brincadeiras que auxiliam no desenvolvimento das habilidades fundamentais das crianças, promovendo a coordenação motora, a percepção visual, a concentração e a orientação espacial de forma lúdica e simples.
-Estimule a imaginação de seu filho com Bob Zoom e sua turma![/COLOR]</info>
+<title>[COLOR darkred][B]●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●[/B][/COLOR]</title>
 </item>
+ 
+ 
+
 
 <item>
 <title>[COLOR yellow]***[/COLOR][COLOR white][B]-Coletânea Bob Zoom Hora do Banho-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
@@ -144,28 +124,56 @@ Estimule a imaginação de seu filho com Bob Zoom e sua turma![/COLOR]</info>
 <fanart>https://tinyurl.com/w5x6xzy</fanart>
 </item>
 
+
+
 <item>
-<title>[COLOR yellow]***[/COLOR][COLOR white][B]- As Aventuras do Bob Zoom-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLfERVKDmUA52dGxfebXA4F-HST9s6dkRX/?page=0</jsonrpc>
+<title>[COLOR darkred][B]●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●[/B][/COLOR]</title>
+</item>
+
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-As Aventuras do Bob Zoom 1 a 18-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<utube>e_rHA6igbdo</utube>
 <thumbnail>https://tinyurl.com/w5x6xzy</thumbnail>
 <fanart>https://tinyurl.com/w5x6xzy</fanart>
-<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
-[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
-[COLOR white]Bob Zoom é uma formiguinha azul divertida e charmosa, estrela de uma série de vídeos musicais, cantados em inglês, português e espanhol, que brinca e vive aventuras com sua turma.Todo o conceito foi concebido por profissionais experientes e qualificados em educação e musicalização infantil. Em seus vídeos, o personagem estimula brincadeiras que auxiliam no desenvolvimento das habilidades fundamentais das crianças, promovendo a coordenação motora, a percepção visual, a concentração e a orientação espacial de forma lúdica e simples.
-Estimule a imaginação de seu filho com Bob Zoom e sua turma![/COLOR]</info>
 </item>
- 
+
 <item>
-<title>[COLOR yellow]***[/COLOR][COLOR white][B]-DANIEL TIGRE-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLoaBAxtZve6lGjypy2WtX-TD6GwznL1KR/?page=0</jsonrpc>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-As Aventuras do Bob Zoom 1 a 21-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<utube>eBlmbK6gVkg</utube>
+<thumbnail>https://tinyurl.com/w5x6xzy</thumbnail>
+<fanart>https://tinyurl.com/w5x6xzy</fanart>
+</item>
+
+
+<item>
+<title>[COLOR darkred][B]●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●[/B][/COLOR]</title>
+</item>
+
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Daniel Tigre 1ª Temporada-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<utube>Enksn22Me7Q</utube>
 <thumbnail>https://tinyurl.com/rypakzp</thumbnail>
 <fanart>https://tinyurl.com/rypakzp</fanart>
-<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
-[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
-[COLOR white]Daniel é um adorável filhote de tigre que mora com o pai e a mãe. Com a ajuda dos seus vizinhos e amigos, ele se diverte enquanto aprende as habilidades necessárias para lidar com a escola e a vida.[/COLOR]</info>
 </item>
+
+
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B]-Daniel Tigre 2ª Temporada-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<utube>uppVve3T2m8</utube>
+<thumbnail>https://tinyurl.com/rypakzp</thumbnail>
+<fanart>https://tinyurl.com/rypakzp</fanart>
+</item>
+ 
+ 
+
+<item>
+<title>[COLOR darkred][B]●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●[/B][/COLOR]</title>
+</item>
+
+
  
 <item>
 <title>[COLOR yellow]***[/COLOR][COLOR white][B]-GALINHA PINTADINHA-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
@@ -187,11 +195,4 @@ Estimule a imaginação de seu filho com Bob Zoom e sua turma![/COLOR]</info>
 <info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
 [COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
 [COLOR white]Baseado no clássico musical para bebês e crianças, Galinha Pintadinha Mini é a nova série da galinha mais amada do Brasil e sua turma. Com historinhas narradas super divertidas, atividades educativas e conteúdo musical, essa nova série promete agradar aos pequenos fãs![/COLOR]</info>
-</item>
-
-<item>
-<title>BUILD TUGA BOX TV</title>
-<utube>KPdhSQgGibo</utube>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<fanart>https://goo.gl/1y8V0J</fanart>
 </item>
