@@ -279,9 +279,25 @@
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLfERVKDmUA50Ai6xrJV1bgXKhBjwLvMUx/?page=0</jsonrpc>
 <thumbnail>https://tinyurl.com/rysjya8</thumbnail>
 <fanart>https://tinyurl.com/rysjya8</fanart>
-<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
-[COLOR orange][B]SINOPSE E DETALHES.[/B][/COLOR]
-[COLOR white]Baseado no clássico musical para bebês e crianças, Galinha Pintadinha Mini é a nova série da galinha mais amada do Brasil e sua turma. Com historinhas narradas super divertidas, atividades educativas e conteúdo musical, essa nova série promete agradar aos pequenos fãs![/COLOR]</info>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B] BOB ZOOMM 2 [/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLfERVKDmUA50Q8pAM6DYDGRUIEywiunny/?page=0</jsonrpc>
+<thumbnail>https://tinyurl.com/rysjya8</thumbnail>
+<fanart>https://tinyurl.com/rysjya8</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR yellow]***[/COLOR][COLOR white][B] AS AVENTURAS BOB ZOOMM [/B][/COLOR][COLOR yellow]***[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLfERVKDmUA52dGxfebXA4F-HST9s6dkRX/?page=0</jsonrpc>
+<thumbnail>https://tinyurl.com/rysjya8</thumbnail>
+<fanart>https://tinyurl.com/rysjya8</fanart>
+<info></info>
 </item>
 
 <item>
