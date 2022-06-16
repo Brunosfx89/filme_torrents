@@ -149,7 +149,7 @@
 
 <item>
 <title>[COLOR yellow]***[/COLOR][COLOR white][B]-Bob Zoom Espanhol-[/B][/COLOR][COLOR yellow]***[/COLOR]</title>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-deaB6VQc-Q2BzyUO3QGm6J6MB2u_LLQ?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-deaB6VQc-Q2BzyUO3QGm6J6MB2u_LLQ/?page=0</jsonrpc>
 <thumbnail>https://tinyurl.com/w5x6xzy</thumbnail>
 <fanart>https://tinyurl.com/w5x6xzy</fanart>
 </item>
